@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![dambar's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekheti&count_private=true&show_icons=true&bg_color=00000000)](https://github.com/codekheti/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=codekheti&theme=algolia&show_icons=true)](https://github.com/codekheti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codekheti)](https://github.com/codekheti/github-readme-stats)
